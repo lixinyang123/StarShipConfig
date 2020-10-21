@@ -1,1 +1,1 @@
-### My StarShip Config
+### My Starship Config
