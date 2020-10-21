@@ -1,6 +1,6 @@
 # StarshipConfig
 
-> My Starship config
+### My Starship config
 
 Screenshot 👇
 
