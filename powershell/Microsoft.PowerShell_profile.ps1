@@ -1,2 +1,2 @@
-# >> ~/Documents/PowerShell/Microsoft.PowerShell_profile.pss1
+# >> ~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1
 Invoke-Expression (&starship init powershell)
