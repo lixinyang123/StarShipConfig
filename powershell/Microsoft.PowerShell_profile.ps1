@@ -1,15 +1,2 @@
-# >> ~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1
-
-clear
-
-echo "
-         _______________________________________________        
-        |   _      __        __                         |       
-________|  | | /| / / ___   / / ____ ___   __ _  ___    |_______
-\       |  | |/ |/ / / -_) / / / __// _ \ /  ' \/ -_)   |      /
- \      |  |__/|__/  \__/ /_/  \__/ \___//_/_/_/\__/    |     / 
- /      |_______________________________________________|     \ 
-/__________)                                        (__________\
-"
-
+# >> ~/Documents/PowerShell/Microsoft.PowerShell_profile.pss1
 Invoke-Expression (&starship init powershell)
